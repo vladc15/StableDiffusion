@@ -1,4 +1,4 @@
-# Text-to-Image and Image-to-Image Generation using Stable Diffusion
+# Stable Diffusion in Text-to-Image and Image-to-Image Generation
 
 ## Introduction
 
@@ -65,4 +65,7 @@ The results highlight the potential of combining computer vision with natural la
 
 ## References
 
+- https://arxiv.org/abs/2207.12598
+- https://theaisummer.com/diffusion-models/
 - https://thepythoncode.com/article/generate-images-from-text-stable-diffusion-python
+- https://www.youtube.com/watch?v=1CIpzeNxIhU
